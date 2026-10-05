@@ -1,0 +1,10 @@
+*.class
+*.iml
+.idea/
+out/
+build/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
